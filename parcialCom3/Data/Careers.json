@@ -1,0 +1,17 @@
+[
+    {
+        "careerId": 1,
+        "name": "Tec Univ en Programación",
+        "active": true
+    },
+    {
+        "careerId": 2,
+        "name": "Tec Univ en Sistemas Informáticos",
+        "active": false
+    },
+    {
+        "careerId": 3,
+        "name": "Ingeniería Naval",
+        "active": true
+    }
+]
